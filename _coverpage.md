@@ -3,7 +3,6 @@
 </p>
 <h1 align="center">ProjectNote</h1>
 
-
 [常用资料](https://shimo.im/docs/MuiACIg1HlYfVxrj)
 [资料归档](https://mrbird.cc/archives)
 [Gitee](https://gitee.com/wind_essence/Project-Note)
