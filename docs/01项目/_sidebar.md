@@ -10,4 +10,10 @@
 * [传统行业解决方案Saas_HRM](./docs/01项目/_sidebar传统行业解决方案Saas_HRM.md)
 * [青橙电商](./docs/01项目/_sidebar青橙电商.md)
 * [传智健康](./docs/01项目/_sidebar传智健康.md)
+* [畅购](./docs/01项目/_sidebar畅购.md)
+* [乐优商城](./docs/01项目/_sidebar乐优商城.md)
+* [黑马头条](./docs/01项目/_sidebar黑马头条.md)
+* [谷粒商城](./docs/01项目/_sidebar谷粒商城.md)
+* [谷粒教育](./docs/01项目/_sidebar谷粒教育.md)
+* [虚拟交易系统](./docs/01项目/_sidebar虚拟交易系统.md)
 
