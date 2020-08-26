@@ -27,6 +27,11 @@
     * [SaaS-HRM--第12章](./docs/01项目/06传统行业解决方案Saas_HRM/3-2传统行业解决方案Saas_HRM/SaaS-HRM--第12章.md)
     * [SaaS-HRM--第13章](./docs/01项目/06传统行业解决方案Saas_HRM/3-2传统行业解决方案Saas_HRM/SaaS-HRM--第13章.md)
 
+    * [day14](./docs/01项目/06传统行业解决方案Saas_HRM/3-2传统行业解决方案Saas_HRM/day14.md)
+    * [day15](./docs/01项目/06传统行业解决方案Saas_HRM/3-2传统行业解决方案Saas_HRM/day15.md)
+    * [day16](./docs/01项目/06传统行业解决方案Saas_HRM/3-2传统行业解决方案Saas_HRM/day16.md)
+    * [day17](./docs/01项目/06传统行业解决方案Saas_HRM/3-2传统行业解决方案Saas_HRM/day17.md)
+    
     
 
 
